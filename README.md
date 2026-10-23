@@ -1,12 +1,12 @@
 # Hi, I'm Diego Rivada 👋
 
-**Product Security Engineer & Team Lead at The Boeing Company** · Seattle, WA
+**Product Security Engineer II & Backup Team Lead at The Boeing Company** · Seattle, WA
 
 I secure commercial aircraft systems: leading security assessments, vulnerability management, and airline customer support to meet FAA and EASA airworthiness and cybersecurity requirements. I'm also pursuing an M.S. in Systems Architecting and Engineering at USC.
 
 - 🛡️ 3+ years in aircraft product security and embedded systems security
-- 👥 Co-lead a product security engineering team; mentor and onboard new engineers
-- 🎓 M.S. Systems Architecting & Engineering, USC (expected 2027) · B.S. Computer Engineering (Cybersecurity), FIU
+- 👥 Backup Team Lead: help prioritize and coordinate the team, step in when the lead is away, and mentor new engineers
+- 🎓 M.S. Systems Architecting & Engineering, USC (expected Dec 2028) · B.S. Computer Engineering (Cybersecurity), FIU
 - 🤖 Interested in how AI can power smarter, more adaptive security tooling
 
 ### 🧰 Toolbox
