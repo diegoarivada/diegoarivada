@@ -27,4 +27,4 @@ I secure commercial aircraft systems: leading security assessments, vulnerabilit
 
 ### 📫 Connect
 
-[Website](https://diegoarivada.dev) · [LinkedIn](https://www.linkedin.com/in/diego-rivada/) · [YouTube](https://www.youtube.com/@diegoarivada) · diegoarivada@gmail.com
+[Website](https://diegoarivada.dev) · [LinkedIn](https://www.linkedin.com/in/diego-rivada/) · [YouTube](https://www.youtube.com/@diegoarivada)
