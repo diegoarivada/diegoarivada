@@ -20,6 +20,7 @@ I secure commercial aircraft systems: leading security assessments, vulnerabilit
 
 | Project | What it is |
 | --- | --- |
+| [EarDeck](https://github.com/diegoarivada/eardeck) | Free, lightweight AirPods app for Windows with battery, one-click connect and easy pairing, built in Rust |
 | [MATTY](https://github.com/diegoarivada/MATTY) | Shell-based CLI assistant that automates common command-line workflows |
 | [Banking API GUI](https://github.com/diegoarivada/shellhacks-project) | ShellHacks build: Python GUI using Capital One APIs to manage financial data |
 | [Water Quality Prediction](https://github.com/diegoarivada/Water-Quality-Prediction-using-ML-technique) | ML model that predicts whether water is safe to drink |
